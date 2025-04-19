@@ -1,5 +1,5 @@
-server:
-  port: 8081
+server:localhost
+  port: 27017
 spring:
   application:
     name: usuarios-servicio
