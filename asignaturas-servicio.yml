@@ -1,0 +1,5 @@
+server:localhost
+  port: 27017
+spring:
+  application:
+    name: asignaturas-servicio
